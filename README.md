@@ -1,4 +1,4 @@
-# DOCVAULT | WealthLink AI
+# DOCVAULT | 
 
 A document intelligence tool for wealth managers. Upload client financial documents and have structured data automatically extracted and stored in a local SQLite database — exportable to Excel, without sending anything to external servers.
 
