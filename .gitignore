@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+wealth_crm.db
+.env
+CLAUDE.md
+audit.md
+*.pdf
+*.xlsx
+*.csv
